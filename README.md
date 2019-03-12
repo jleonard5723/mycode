@@ -1,2 +1,1 @@
-# mycode
-Learning to track my code
+Want to learn how to version control documents.
